@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126805372238",
+    "firebase_url": "https://the-bucket-list-app.firebaseio.com",
+    "project_id": "the-bucket-list-app",
+    "storage_bucket": "the-bucket-list-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126805372238:android:bba37a9cc88248f814c21f",
+        "android_client_info": {
+          "package_name": "com.shashwat.bucketlist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126805372238-hljcjthcq65t01237ivdgovfg30nngds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBbG6-YA1fnFDw0H9pHUuNl4vQwDfR1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126805372238-hljcjthcq65t01237ivdgovfg30nngds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
